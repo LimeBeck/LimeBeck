@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anatoly</h1>
 <h3 align="center">Kotlin Backend developer and Linux Enthusiast</h3>
 
-- 🔭 I’m currently working on [RevealKt](https://github.com/LimeBeck/reveal-kt) (Kotlin wrapper for Reveal JS with CLI) and [Build Time Config Gradle plugin](https://github.com/LimeBeck/build-time-config)
+I've been developing backend with Kotlin for over 5 years, and not only Kotlin, but mostly Kotlin.
+
+I've also worked with JavaScript/TypeScript, Python, PHP.
+
+I enjoy creating custom tools to simplify work and solve arising issues. Some of them can be found on my GitHub
+
+- 🔭 I’m currently working on Kotlin wrapper for Reveal JS with CLI [RevealKt](https://github.com/LimeBeck/reveal-kt) and [Build Time Config Gradle plugin](https://github.com/LimeBeck/build-time-config) for embedding static application configuration at compile 
 
 - 📝 I sometimes write articles on [blog.limebeck.dev](https://blog.limebeck.dev)

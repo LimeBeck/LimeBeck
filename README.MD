@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anatoly</h1>
 <h3 align="center">Kotlin Backend developer and Linux Enthusiast</h3>
 
-I've been developing backend with Kotlin for over 5 years, and not only Kotlin, but mostly Kotlin.
+I've been developing backend with Kotlin from 2018, and not only Kotlin, but mostly Kotlin.
 
 I've also worked with JavaScript/TypeScript, Python, PHP.
 

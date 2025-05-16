@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anatoly</h1>
 <h3 align="center">Kotlin Backend developer and Linux Enthusiast</h3>
 
+[![wakatime](https://wakatime.com/badge/user/8e8402e2-45d3-4c47-a5a3-b0f668e59941.svg)](https://wakatime.com/@8e8402e2-45d3-4c47-a5a3-b0f668e59941)
+
 I've been developing backend with Kotlin from 2018, and not only Kotlin, but mostly Kotlin.
 
 I've also worked with JavaScript/TypeScript, Python, PHP.
